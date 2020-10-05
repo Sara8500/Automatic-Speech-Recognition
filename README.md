@@ -1,7 +1,7 @@
 # Automatic-Speech-Recognition
 Tasks:
 
-1-Download video from:
+1-Download the video from:
 
 https://www.zdf.de/dokumentation/terra-x/wie-funktioniert-ein-geysir-creative-commons-100.html
 
